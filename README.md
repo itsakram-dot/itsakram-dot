@@ -1,4 +1,4 @@
-Hi there 👋, I’m Akram!
+Hi 👋, I’m Akram!
 
 Data Analyst and Business Analyst | Master’s in Business Analytics @ Cal State East Bay
 
@@ -15,7 +15,6 @@ Check out my work below ↓ I build tools that solve real-world problems.
 [Academic Performance Tracker] – Designed Excel dashboards to optimize student outcomes (85% success rate).
 
 📫 Let’s Collaborate!
-💼 LinkedIn – Let’s talk data, coffee, or career pivots.
-📄 Resume – My journey in PDF form.
-✉️ akrammohammed09@gmail.com – Reach out anytime!
-
+💼 [LinkedIn](https://www.linkedin.com/in/akram-mohammed-465052134) – Let’s talk data, coffee, or career pivots.  
+📄 [Resume](https://github.com/itsakram-dot/itsakram-dot/raw/d4d3111c347b92249af663b48ee21eba73487a2b/Akram%20Mohammed%20-%20Resume%20March.pdf) – My journey in PDF form.  
+✉️ [akrammohammed09@gmail.com](mailto:akrammohammed09@gmail.com) – Reach out !
