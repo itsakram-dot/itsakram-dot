@@ -19,6 +19,8 @@ Check out my work below ↓ I build tools that solve real-world problems.
 
 📫 Let’s Collaborate!
 
-💼 [LinkedIn](https://www.linkedin.com/in/akram-mohammed-465052134) – Let’s talk data, coffee, or career pivots.  
-📄 [Resume](https://github.com/itsakram-dot/itsakram-dot/raw/d4d3111c347b92249af663b48ee21eba73487a2b/Akram%20Mohammed%20-%20Resume%20March.pdf) – My journey in PDF form.  
-✉️ [akrammohammed09@gmail.com](mailto:akrammohammed09@gmail.com) – Reach out !
+If you are looking for someone like me or know any opportunities,feel free to send me an email
+
+💼 [LinkedIn](https://www.linkedin.com/in/akram-mohammed-465052134)
+📄 [Resume](https://github.com/itsakram-dot/itsakram-dot/raw/d4d3111c347b92249af663b48ee21eba73487a2b/Akram%20Mohammed%20-%20Resume%20March.pdf)
+✉️ [akrammohammed09@gmail.com](mailto:akrammohammed09@gmail.com)
