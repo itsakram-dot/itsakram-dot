@@ -12,8 +12,8 @@ Check out my work below ↓ I build tools that solve real-world problems.
 
 🚀 **Featured Projects**
 
-- **[[Airline Passenger Forecasting](https://github.com/itsakram-dot/BAN-673-Airline-Passenger-Forecast)]** – Developed an ARIMA-based forecasting model in R, achieving high predictive accuracy (MAPE: 1%, RMSE: 0.0662).
-- **[Sales Forecasting Engine]** – Built a Python time-series model to predict revenue (12% accuracy boost).
+- **[Airline Passenger Forecasting](https://github.com/itsakram-dot/BAN-673-Airline-Passenger-Forecast)** – Developed an ARIMA-based forecasting model in R, achieving high predictive accuracy (MAPE: 1%, RMSE: 0.0662).
+- **[Diversity & Employee Engagement Analysis](https://github.com/itsakram-dot/diversity-employee-engagement-nsf)** – Analyzed the impact of recognition and agile practices on diversity and employee engagement at NSF using regression modeling in R.
 - **[Tax Compliance Dashboard]** – Automated FIRS reporting with SQL ETL pipelines + Tableau (saved 30+ hours/month).
 
 
