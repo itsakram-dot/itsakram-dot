@@ -15,6 +15,7 @@ Check out my work below ↓ I build tools that solve real-world problems.
 - **[Airline Passenger Forecasting](https://github.com/itsakram-dot/BAN-673-Airline-Passenger-Forecast)** – Developed an ARIMA-based forecasting model in R, achieving high predictive accuracy (MAPE: 1%, RMSE: 0.0662).
 - **[Diversity & Employee Engagement Analysis](https://github.com/itsakram-dot/diversity-employee-engagement-nsf)** – Analyzed the impact of recognition and agile practices on diversity and employee engagement at NSF using regression modeling in R.
 - **[Big Data Weather Analytics](https://github.com/itsakram-dot/big-data-weather-analytics)** – Processed NCDC weather station data using Hadoop, PySpark, and mrjob, demonstrating MapReduce, RDD transformations, and SQL-based queries.
+- **[Student Alcohol & Academic Performance](https://github.com/itsakram-dot/student-alcohol-performance)** – Examined relationships between student alcohol consumption and academic performance using regression, KNN, decision trees, and clustering (R² up to 0.91).
 - **[Tax Compliance Dashboard]** – Automated FIRS reporting with SQL ETL pipelines + Tableau (saved 30+ hours/month).
 
 📫 Let’s Collaborate!
