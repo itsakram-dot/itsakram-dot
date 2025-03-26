@@ -20,8 +20,10 @@ Check out my work below ↓ I build tools that solve real-world problems.
 
 📫 Let’s Collaborate!
 
-If you are looking for someone like me or know any opportunities,feel free to send me an email
+If you are looking for someone with my experience or know any opportunities,feel free to send me an email
 
-💼 [LinkedIn](https://www.linkedin.com/in/akram-mohammed-465052134)
-📄 [Resume](https://github.com/itsakram-dot/itsakram-dot/raw/d4d3111c347b92249af663b48ee21eba73487a2b/Akram%20Mohammed%20-%20Resume%20March.pdf)
+💼 [LinkedIn](http://www.linkedin.com/in/akram-mohammed-465052134)  
+
+📄 [Resume](https://github.com/itsakram-dot/itsakram-dot/raw/main/Akram%20Mohammed%20-%20Resume%20March.pdf)  
+
 ✉️ [akrammohammed09@gmail.com](mailto:akrammohammed09@gmail.com)
