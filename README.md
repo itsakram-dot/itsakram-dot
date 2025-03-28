@@ -24,6 +24,6 @@ If you are looking for someone with my experience or know any opportunities,feel
 
 💼 [LinkedIn](http://www.linkedin.com/in/akram-mohammed-465052134)  
 
-📄 [Resume](https://github.com/itsakram-dot/itsakram-dot/raw/main/Akram%20Mohammed%20-%20Resume%20March.pdf)  
+📄 [Resume](https://github.com/itsakram-dot/itsakram-dot/raw/main/Akram%20Mohammed%20-%20Resume%20March.pdf) 
 
 ✉️ [akrammohammed09@gmail.com](mailto:akrammohammed09@gmail.com)
