@@ -20,16 +20,20 @@ Hi, I’m Akram Mohammed — Data & Business Analyst with an MS in Business Anal
 ## 💼 Projects
 
 - **[Airline Passenger Forecasting](https://github.com/itsakram-dot/BAN-673-Airline-Passenger-Forecast)**  
-  Achieved 1% MAPE and 0.0662 RMSE on ARIMA forecasts, enabling better fleet planning.  
+  Achieved 1 % MAPE and 0.0662 RMSE on ARIMA forecasts, enabling better fleet planning.  
   _Tech: R, forecast, ggplot2_
 
-- **[Diversity & Employee Engagement Analysis](https://github.com/itsakram-dot/diversity-employee-engagement-nsf)**  
-  Used regression in R to show how recognition programs drive engagement at NSF.  
-  _Tech: R, tidyverse, caret_
+- **[Big Data Weather Analytics](https://github.com/itsakram-dot/big-data-weather-analytics)**  
+  Cloud-based pipeline that ingests and processes 10+ years of global weather data, delivering end-to-end ETL into Redshift and interactive dashboards in Tableau for real-time insights.  
+  _Tech: AWS (S3, Lambda, Redshift), Python, Spark, Tableau_
 
 - **[Job-Fraud Detection](https://github.com/itsakram-dot/job-fraud-detection)**  
-  Group project: flagged 78% of fake ads at a 4% false-positive rate, saving \$2.5M/year.  
+  Group project: flagged 78 % of fake ads at a 4 % false-positive rate, saving \$2.5 M/year.  
   _Tech: Python, TF-IDF, scikit-learn, SHAP_
+
+- **[Automating KYC & AML at JPMorgan Chase](https://github.com/itsakram-dot/Masters-Capstone-Project)**  
+  Capstone project: end-to-end pipeline cut KYC review time by 58 %, reduced false-positive AML alerts by 41 %, and delivered projected \$78 M annual savings.  
+  _Tech: Python, Tesseract OCR, XGBoost, SHAP_
 
 ---
 
