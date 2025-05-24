@@ -1,7 +1,7 @@
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![R](https://img.shields.io/badge/R-4.0%2B-blue)
-![SQL](https://img.shields.io/badge/SQL-ANSI-blue)
-![Tableau](https://img.shields.io/badge/Tableau-2021-blue)
+![Python]
+![R]
+![SQL]
+![Tableau]
 
 ---
 
