@@ -34,6 +34,5 @@ Hi, I’m Akram Mohammed — Data & Business Analyst with an MS in Business Anal
 ---
 
 ## 📫 Let’s Connect
-- LinkedIn: [akram-mohammed](https://www.linkedin.com/in/akram-mohammed-465052134)  
-- Resume: [Download PDF](https://github.com/itsakram-dot/resume.pdf)  
+- LinkedIn: [akram-mohammed](www.linkedin.com/in/akram-mohammed-465052134)  
 - Email: ✉️ akrammohammed09@gmail.com
