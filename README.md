@@ -32,7 +32,7 @@ Hi, I’m Akram Mohammed — Data & Business Analyst with an MS in Business Anal
   _Tech: Python, TF-IDF, scikit-learn, SHAP_
 
 - **[Automating KYC & AML at JPMorgan Chase](https://github.com/itsakram-dot/Masters-Capstone-Project)**  
-  Capstone project: end-to-end pipeline cut KYC review time by 58 %, reduced false-positive AML alerts by 41 %, and delivered projected \$78 M annual savings.  
+  Capstone project: end-to-end pipeline cut KYC review time by 58 %, reduced false-positive AML alerts by 41 %, and delivered projected \$78m annual savings.  
   _Tech: Python, Tesseract OCR, XGBoost, SHAP_
 
 ---
