@@ -6,7 +6,7 @@
 ---
 
 ## 👋 About Me
-Hi, I’m Akram Mohammed — Data & Business Analyst with an MS in Business Analytics from Cal State East Bay. I turn complex datasets into clear strategies that boost operational efficiency and revenue.
+Hi, I’m Akram Mohammed — Data & Business Analyst with a Masters in Business Analytics from Cal State East Bay. I turn complex datasets into clear strategies that boost operational efficiency and revenue.
 
 ---
 
