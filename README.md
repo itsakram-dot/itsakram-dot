@@ -35,6 +35,9 @@ Hi, I’m Akram Mohammed — Data & Business Analyst with a Masters in Business 
   Capstone project: end-to-end pipeline cut KYC review time by 58 %, reduced false-positive AML alerts by 41 %, and delivered projected \$78m annual savings.  
   _Tech: Python, Tesseract OCR, XGBoost, SHAP_
 
+- **[LEGO Investment Analysis](https://github.com/itsakram-dot/LEGO-Investment-Analysis/tree/main)**  
+  This project examines whether LEGO sets can act like alternative investments. Using data from LEGO sets released in 2018–2019, we explore which sets offer the best value and build a model to predict “fair price.” The goal:      help investors make decisions based on analytics.  
+  _Tech: Python, NumPy, scikit-learn, SHAP_
 ---
 
 ## 📫 Let’s Connect
