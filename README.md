@@ -1,6 +1,3 @@
-<img src="https://github.com/user-attachments/assets/2844cc48-2e09-4489-bb6f-b16f89a02975" width="100%">
-<hr>
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
