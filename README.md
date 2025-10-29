@@ -13,7 +13,7 @@ I transform complex data into insights that improve operations, forecasting, and
 ---
 
 ## 🚀 What I Do
-- 📊 Build interactive dashboards in **Power BI** that reduce report prep time by 40%
+- 📊 Build interactive dashboards in **Tableau** that reduce report prep time by 40%
 - 🤖 Develop predictive models (**ARIMA**, **XGBoost**) for forecasting and risk detection
 - 🔄 Automate ETL pipelines (**Python**, **SQL**, **AWS Redshift**) for nightly data refreshes
 - 💡 Translate analytics into clear business stories for non-technical stakeholders
