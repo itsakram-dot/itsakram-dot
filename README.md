@@ -42,6 +42,10 @@ I transform complex data into insights that improve operations, forecasting, and
   Combined descriptive + predictive analytics to identify undervalued LEGO sets  
   _Tech: Python, NumPy, scikit-learn, SHAP_
 
+- **[Major League Baseball Analysis](https://github.com/itsakram-dot/MLB-Free-Agent-Data)**   
+  Combined descriptive + predictive analytics to identify undervalued batters, and predict fair value salaries in the free agent market.   
+  _Tech: Python, NumPy, scikit-learn, pandas, jupyter_
+
 ---
 
 ## 📊 GitHub Highlights
