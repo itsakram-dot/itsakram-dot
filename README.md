@@ -62,10 +62,6 @@ Data Management: ETL, Data Quality, Documentation
 Business Domains: Operations, Finance, Marketing, Sports
 
 ---
-📊 GitHub Activity
-https://github-readme-stats.vercel.app/api?username=itsakram-dot&show_icons=true&theme=tokyonight
-https://github-readme-stats.vercel.app/api/top-langs/?username=itsakram-dot&layout=compact&theme=tokyonight
-
 
 📫 Connect
 
