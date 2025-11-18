@@ -7,6 +7,7 @@
 
 ---
 👋 About Me
+
 I'm Akram, a Data Analyst with a Master's in Business Analytics from Cal State East Bay.
 
 I'm experinced in building dashboards on Tableau and automating reports that help teams make data-driven decisions. My work cut reporting time by 40% and found $100K+ in cost savings.
