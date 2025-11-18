@@ -8,14 +8,18 @@
 ---
 👋 About Me
 I'm Akram, a Data Analyst with a Master's in Business Analytics from Cal State East Bay.
-Experinced building dashboards in Tableau and automated reports that help teams make data-driven decisions. My work cut reporting time by 40% and found $100K+ in cost savings.
+
+I'm experinced in building dashboards on Tableau and automating reports that help teams make data-driven decisions. My work cut reporting time by 40% and found $100K+ in cost savings.
 
 ---
 🚀 What I Do
 
 📊 Build interactive dashboards in Tableau and Power BI that cut manual reporting by 40%
+
 🔍 Analyze business data to find trends and opportunities, leading to $100K+ cost savings
+
 🔄 Automate data pipelines with SQL and Python for reliable, daily reports
+
 💡 Explain data insights to business teams, helping them make informed decisions
 
 ---
@@ -50,8 +54,11 @@ Tech: Python, Performance Metrics, Data Storytelling
 🛠️ Core Analytics Skills
 
 Data Analysis: SQL, Python (pandas, numpy), Excel
+
 Visualization: Tableau, Power BI, Data Storytelling
+
 Data Management: ETL, Data Quality, Documentation
+
 Business Domains: Operations, Finance, Marketing, Sports
 
 ---
