@@ -4,56 +4,62 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
----
-
-## 👋 About Me
-Hi, I’m Akram — Data & Business Analyst with a Master’s in Business Analytics from Cal State East Bay.  
-I transform complex data into insights that improve operations, forecasting, and revenue growth.
 
 ---
-
-## 🚀 What I Do
-- 📊 Build interactive dashboards in **Tableau** that reduce report prep time by 40%
-- 🤖 Develop predictive models (**ARIMA**, **XGBoost**) for forecasting and risk detection
-- 🔄 Automate ETL pipelines (**Python**, **SQL**, **AWS Redshift**) for nightly data refreshes
-- 💡 Translate analytics into clear business stories for non-technical stakeholders
+👋 About Me
+I'm Akram, a Data Analyst with a Master's in Business Analytics from Cal State East Bay.
+Experinced building dashboards in Tableau and automated reports that help teams make data-driven decisions. My work cut reporting time by 40% and found $100K+ in cost savings.
 
 ---
+🚀 What I Do
 
-## 💼 Projects
-
-- **[Airline Passenger Forecasting](https://github.com/itsakram-dot/BAN-673-Airline-Passenger-Forecast)**  
-  Achieved **1% MAPE** and **0.0662 RMSE** using ARIMA forecasting for fleet planning  
-  _Tech: R, forecast, ggplot2_
-
-- **[Big Data Weather Analytics](https://github.com/itsakram-dot/big-data-weather-analytics)**  
-  Built a **cloud ETL pipeline** for 10+ years of weather data into Redshift with Power BI dashboards  
-  _Tech: AWS (S3, Lambda, Redshift), Python, Spark, Power BI_
-
-- **[Job-Fraud Detection](https://github.com/itsakram-dot/job-fraud-detection)**  
-  Detected **78% of fake job ads** with only 4% false positives, saving $2.5M annually  
-  _Tech: Python, TF-IDF, scikit-learn, SHAP_
-
-- **[Automating KYC & AML @ JPMorgan Chase](https://github.com/itsakram-dot/Masters-Capstone-Project)**  
-  Reduced KYC review time by **58%**, false positives by **41%**, projected **$78M** annual savings  
-  _Tech: Python, Tesseract OCR, XGBoost, SHAP_
-
-- **[LEGO Investment Analysis](https://github.com/itsakram-dot/LEGO-Investment-Analysis/tree/main)**  
-  Combined descriptive + predictive analytics to identify undervalued LEGO sets  
-  _Tech: Python, NumPy, scikit-learn, SHAP_
-
-- **[Major League Baseball Analysis](https://github.com/itsakram-dot/MLB-Free-Agent-Data)**   
-  Combined descriptive + predictive analytics to identify undervalued batters, and predict fair value salaries in the free agent market.   
-  _Tech: Python, NumPy, scikit-learn, pandas, jupyter_
+📊 Build interactive dashboards in Tableau and Power BI that cut manual reporting by 40%
+🔍 Analyze business data to find trends and opportunities, leading to $100K+ cost savings
+🔄 Automate data pipelines with SQL and Python for reliable, daily reports
+💡 Explain data insights to business teams, helping them make informed decisions
 
 ---
+💼 Featured Projects
 
-## 📊 GitHub Highlights
-![Akram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsakram-dot&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsakram-dot&layout=compact&theme=tokyonight)
+**[Airline Passenger Analysis](https://github.com/itsakram-dot/BAN-673-Airline-Passenger-Forecast)** :
+ Forecasted passenger demand with 99% accuracy, supporting fleet planning decisions
+
+Tech: R, Statistical Analysis, Data Visualization
+
+**[Business Weather Analytics](https://github.com/itsakram-dot/big-data-weather-analytics)** :
+ Built automated data pipelines for 10+ years of weather data, enabling analysis of weather impact on business operations
+
+Tech: AWS, Python, SQL, Power BI
+
+**[Financial Compliance Automation](https://github.com/itsakram-dot/Masters-Capstone-Project)** :
+ Streamlined compliance checks, cutting review time by 58% and false positives by 41%
+
+Tech: Python, Data Quality, Process Improvement
+
+**[LEGO Market Analysis](https://github.com/itsakram-dot/LEGO-Investment-Analysis/tree/main)** :
+ Analyzed pricing data and market trends to identify investment opportunities in LEGO sets
+
+Tech: Python, Market Analysis, Business Intelligence
+
+**[Baseball Player Valuation](https://github.com/itsakram-dot/MLB-Free-Agent-Data)** :
+ Analyzed player performance and contract data to assess player value in the free agent market
+
+Tech: Python, Performance Metrics, Data Storytelling
 
 ---
+🛠️ Core Analytics Skills
 
-## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/akram-mohammed-465052134)  
-- ✉️ akrammohammed09@gmail.com
+Data Analysis: SQL, Python (pandas, numpy), Excel
+Visualization: Tableau, Power BI, Data Storytelling
+Data Management: ETL, Data Quality, Documentation
+Business Domains: Operations, Finance, Marketing, Sports
+
+---
+📊 GitHub Activity
+https://github-readme-stats.vercel.app/api?username=itsakram-dot&show_icons=true&theme=tokyonight
+https://github-readme-stats.vercel.app/api/top-langs/?username=itsakram-dot&layout=compact&theme=tokyonight
+
+📫 Connect
+
+💼 LinkedIn
+✉️ akrammohammed09@gmail.com
