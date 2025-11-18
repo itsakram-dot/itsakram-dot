@@ -66,7 +66,9 @@ Business Domains: Operations, Finance, Marketing, Sports
 https://github-readme-stats.vercel.app/api?username=itsakram-dot&show_icons=true&theme=tokyonight
 https://github-readme-stats.vercel.app/api/top-langs/?username=itsakram-dot&layout=compact&theme=tokyonight
 
+
 📫 Connect
 
-💼 LinkedIn
+💼 LinkedIn : https://www.linkedin.com/in/akram-mohammed-465052134/
+
 ✉️ akrammohammed09@gmail.com
