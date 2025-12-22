@@ -16,7 +16,7 @@ I'm experinced in building dashboards on Tableau and automating reports that hel
 ---
 🚀 What I Do
 
-📊 Build interactive dashboards in Tableau and Power BI that cut manual reporting by 40%
+📊 Build interactive dashboards in Tableau and Power BI that cut manual reporting by 30%
 
 🔍 Analyze business data to find trends and opportunities, leading to $100K+ cost savings
 
