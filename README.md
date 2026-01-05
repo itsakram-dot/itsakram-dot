@@ -63,4 +63,7 @@ Forecasted passenger demand using ARIMA models for fleet planning decisions
 ## 📫 Connect
 
 **LinkedIn:** [linkedin.com/in/akram-mohammed-465052134](https://www.linkedin.com/in/akram-mohammed-465052134/)  
-**Email:** akrammohammed09@gmail.com
+
+**Email:** akrammohammed09@gmail.com 
+
+**Tableau:** https://public.tableau.com/app/profile/akram.mohammed3381/vizzes
