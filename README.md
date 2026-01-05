@@ -7,66 +7,60 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 
 ---
-👋 About Me
+
+## 👋 About Me
 
 I'm Akram, a Data Analyst with a Master's in Business Analytics from Cal State East Bay.
 
-I'm experinced in building dashboards on Tableau and automating reports that help teams make data-driven decisions. My work cut reporting time by 40% and found $100K+ in cost savings.
+I build dashboards that reduce manual work, write SQL pipelines that catch errors before they become problems, and analyze operational data to find cost savings and efficiency improvements.
 
----
-🚀 What I Do
+Actively seeking full-time roles in the U.S. 3 years analyzing data in tax and education sectors.
 
-📊 Build interactive dashboards in Tableau and Power BI that cut manual reporting by 30%
-
-🔍 Analyze business data to find trends and opportunities, leading to $100K+ cost savings
-
-🔄 Automate data pipelines with SQL and Python for reliable, daily reports
-
-💡 Explain data insights to business teams, helping them make informed decisions
-
----
-💼 Featured Projects
-
-**[Airline Passenger Analysis](https://github.com/itsakram-dot/BAN-673-Airline-Passenger-Forecast)** :
- Forecasted passenger demand with 99% accuracy, supporting fleet planning decisions
-
-Tech: R, Statistical Analysis, Data Visualization
-
-**[Business Weather Analytics](https://github.com/itsakram-dot/big-data-weather-analytics)** :
- Built automated data pipelines for 10+ years of weather data, enabling analysis of weather impact on business operations
-
-Tech: AWS, Python, SQL, Power BI
-
-**[Financial Compliance Automation](https://github.com/itsakram-dot/Masters-Capstone-Project)** :
- Streamlined compliance checks, cutting review time by 58% and false positives by 41%
-
-Tech: Python, Data Quality, Process Improvement
-
-**[LEGO Market Analysis](https://github.com/itsakram-dot/LEGO-Investment-Analysis/tree/main)** :
- Analyzed pricing data and market trends to identify investment opportunities in LEGO sets
-
-Tech: Python, Market Analysis, Business Intelligence
-
-**[Baseball Player Valuation](https://github.com/itsakram-dot/MLB-Free-Agent-Data)** :
- Analyzed player performance and contract data to assess player value in the free agent market
-
-Tech: Python, Performance Metrics, Data Storytelling
-
----
-🛠️ Core Analytics Skills
-
-Data Analysis: SQL, Python (pandas, numpy), Excel
-
-Visualization: Tableau, Power BI, Data Storytelling
-
-Data Management: ETL, Data Quality, Documentation
-
-Business Domains: Operations, Finance, Marketing, Sports
+**Skills:** Python, R, SQL, Tableau, Power BI, AWS
 
 ---
 
-📫 Connect
+## 💼 Featured Projects
 
-💼 LinkedIn : https://www.linkedin.com/in/akram-mohammed-465052134/
+**[Operational Risk Triage: ML for Flight Operations](https://github.com/itsakram-dot/Operational-Risk-Triage-Machine-Learning-for-Flight-Operations)**  
+Built a model (83% AUC) predicting crew-related delays 24 hours ahead, identifying $47M in potential revenue protection through better crew positioning  
+**Tech:** Python, XGBoost, Feature Engineering
 
-✉️ akrammohammed09@gmail.com
+**[Payment Intelligence Pipeline](https://github.com/itsakram-dot/Payment-Intelligence-Pipeline-SQL-Tableau-)**  
+Automated payment analytics for 500K+ transactions, surfacing late payment patterns and reducing manual reporting by 60%  
+**Tech:** SQL, Tableau, ETL
+
+**[Customer Profitability & Risk Engine](https://github.com/itsakram-dot/Customer-Profitability-Risk-Engine-RFM-Returns-)**  
+Segmented 10K+ customers using RFM analysis and return behavior, enabling targeted retention strategies  
+**Tech:** SQL, Customer Analytics, Power BI (DAX) 
+
+**[Financial Compliance Automation](https://github.com/itsakram-dot/Masters-Capstone-Project)**  
+Cut compliance review time by 58% and false positives by 41% through automated data quality checks  
+**Tech:** Python, Process Improvement, Data Quality
+
+**[Business Weather Analytics](https://github.com/itsakram-dot/big-data-weather-analytics)**  
+Built AWS pipelines processing 10+ years of weather data to analyze impact on business operations  
+**Tech:** AWS, Python, SQL, Power BI
+
+**[Airline Passenger Forecasting](https://github.com/itsakram-dot/BAN-673-Airline-Passenger-Forecast)**  
+Forecasted passenger demand using ARIMA models for fleet planning decisions  
+**Tech:** R, Time Series, Statistical Analysis
+
+---
+
+## 🛠️ What I Do
+
+**Analysis:** SQL queries that answer business questions, Python scripts that clean messy data, statistical models that find patterns
+
+**Visualization:** Tableau dashboards teams use daily, Power BI reports that update automatically, charts that make decisions easier
+
+**Data Engineering:** ETL pipelines that run reliably, data quality checks that catch errors early, documentation that helps the next person
+
+**Domains:** Operations, finance, marketing, healthcare, sports analytics
+
+---
+
+## 📫 Connect
+
+**LinkedIn:** [linkedin.com/in/akram-mohammed-465052134](https://www.linkedin.com/in/akram-mohammed-465052134/)  
+**Email:** akrammohammed09@gmail.com
