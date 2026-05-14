@@ -10,11 +10,9 @@
 
 ## 👋 About Me
 
-I'm Akram, a Data Analyst with a Master's in Business Analytics from Cal State East Bay.
+I'm Akram, a Data Analyst with a Master's in Business Analytics. 
 
-I build dashboards that reduce manual work, write SQL pipelines that catch errors before they become problems, and analyze operational data to find cost savings and efficiency improvements.
-
-Actively seeking full-time roles in the U.S. 3 years analyzing data in tax and education sectors.
+I build projects that mirror real business problems—operational optimization, fraud detection, customer analytics, and live monitoring systems. Each project demonstrates end-to-end analytical thinking: from data acquisition through model building to actionable insights and measurable business impact.
 
 **Skills:** Python, R, SQL, Tableau, Power BI, AWS
 
@@ -22,41 +20,91 @@ Actively seeking full-time roles in the U.S. 3 years analyzing data in tax and e
 
 ## 💼 Featured Projects
 
-**[Operational Risk Triage: ML for Flight Operations](https://github.com/itsakram-dot/Operational-Risk-Triage-Machine-Learning-for-Flight-Operations)**  
-Built a model (83% AUC) predicting crew-related delays 24 hours ahead, identifying $47M in potential revenue protection through better crew positioning  
-**Tech:** Python, XGBoost, Feature Engineering
+✈️ *Operational Risk Triage: ML for Flight Operations*
 
-**[Payment Intelligence Pipeline](https://github.com/itsakram-dot/Payment-Intelligence-Pipeline-SQL-Tableau-)**  
-Automated payment analytics for 500K+ transactions, surfacing late payment patterns and reducing manual reporting by 60%  
-**Tech:** SQL, Tableau, ETL
+GitHub
 
-**[Customer Profitability & Risk Engine](https://github.com/itsakram-dot/Customer-Profitability-Risk-Engine-RFM-Returns-)**  
-Segmented 10K+ customers using RFM analysis and return behavior, enabling targeted retention strategies  
-**Tech:** SQL, Customer Analytics, Power BI (DAX) 
+Predicted crew-related flight delays 24 hours ahead using XGBoost classification (83% AUC), identifying $47M in potential revenue protection through proactive crew repositioning and schedule optimization.
+Impact: $47M revenue protection opportunity identified
+Tech: Python, XGBoost, Feature Engineering, Classification, 800K+ records
 
-**[Financial Compliance Automation](https://github.com/itsakram-dot/Masters-Capstone-Project)**  
-Cut compliance review time by 58% and false positives by 41% through automated data quality checks  
-**Tech:** Python, Process Improvement, Data Quality
+⚖️ *Financial Compliance Automation (Graduate Capstone)*
 
-**[Business Weather Analytics](https://github.com/itsakram-dot/big-data-weather-analytics)**  
-Built AWS pipelines processing 10+ years of weather data to analyze impact on business operations  
-**Tech:** AWS, Python, SQL, Power BI
+GitHub
 
-**[Airline Passenger Forecasting](https://github.com/itsakram-dot/BAN-673-Airline-Passenger-Forecast)**  
-Forecasted passenger demand using ARIMA models for fleet planning decisions  
-**Tech:** R, Time Series, Statistical Analysis
+Automated AML/KYC compliance review process using anomaly detection (XGBoost, Isolation Forest), reducing manual review time by 58% and false positives by 41% while maintaining regulatory coverage.
+Impact: 58% faster compliance reviews, 41% fewer false positives
+Tech: Python, Anomaly Detection, XGBoost, Isolation Forest, Process Automation
 
----
+⚾ *MLB Free Agent Value Analytics*
 
-## 🛠️ What I Do
+GitHub
 
-**Analysis:** SQL queries that answer business questions, Python scripts that clean messy data, statistical models that find patterns
+Evaluated MLB free agent market efficiency by predicting fair player salaries using Random Forest models, identifying undervalued and overvalued players to inform front-office contract decisions (1998-2013 data).
+Impact: Quantified player value vs. market salary for contract optimization
+Tech: R, Random Forest, Regression, Sports Analytics, Salary Prediction
 
-**Visualization:** Tableau dashboards teams use daily, Power BI reports that update automatically, charts that make decisions easier
+💳 *Payment Intelligence Pipeline*
 
-**Data Engineering:** ETL pipelines that run reliably, data quality checks that catch errors early, documentation that helps the next person
+GitHub
 
-**Domains:** Operations, finance, marketing, healthcare, sports analytics
+Automated payment analytics for 500K+ transactions, building SQL-based ETL pipeline and Tableau dashboards surfacing late payment patterns and reducing manual reporting time by 60%.
+Impact: 60% reduction in manual reporting time
+Tech: SQL, Tableau, ETL, Payment Analytics
+
+📊 *Customer Profitability & Risk Engine*
+
+GitHub
+
+Segmented 10K+ customers using RFM analysis and return behavior modeling, enabling targeted retention strategies through Power BI dashboards tracking customer lifetime value and churn risk.
+Impact: Actionable customer segmentation for retention targeting
+Tech: SQL, RFM Analysis, Power BI (DAX), Customer Analytics
+
+☁️ *Business Weather Analytics*
+
+GitHub
+
+Built AWS data pipelines processing 10+ years of weather data, analyzing weather impact on business operations through SQL queries and Power BI visualizations supporting operational planning decisions.
+Impact: Historical weather impact quantified for operational forecasting
+Tech: AWS, Python, SQL, Power BI, Big Data Processing
+
+✈️ *Airline Passenger Forecasting* 
+
+GitHub
+
+Forecasted airline passenger demand using ARIMA time series models, supporting fleet planning and capacity allocation decisions through statistical demand projections.
+Impact: Data-driven demand forecasts for capacity planning
+Tech: R, ARIMA, Time Series Forecasting, Statistical Analysis
+
+## SKILLS
+
+Programming & Analysis: Python (Pandas, NumPy, Scikit-Learn), R, SQL (PostgreSQL, SQL Server, Oracle)
+
+Machine Learning: XGBoost, Random Forest, Isolation Forest, Time Series (ARIMA), Classification, Anomaly Detection
+
+Data Visualization: Tableau (Certified), Power BI (DAX), Streamlit, Matplotlib, Seaborn
+
+Data Engineering: ETL Pipelines, AWS, APIs (REST, Real-Time), Data Quality Automation
+
+Business Intelligence: Dashboard Development, KPI Tracking, Executive Reporting, Stakeholder Communication
+
+
+## PROFESSIONAL EXPERIENCE
+
+Data Analyst | Federal Inland Revenue Service (Oct 2020 – Aug 2023)
+
+Built operational analytics supporting 150+ institutional accounts and 2,000+ compliance cases
+Automated reporting workflows saving 240 hours annually through Python/SQL automation
+Reduced data defects 30% through systematic validation and quality controls
+Led $2M system migration coordinating cross-functional teams (IT, finance, operations)
+Presented data-driven recommendations to senior leadership driving policy decisions
+
+
+## EDUCATION
+
+M.S. in Business Analytics | California State University, East Bay | GPA: 3.4 | May 2025
+B.S. in Economics | Swansea University, UK | Jul 2018
+Certifications: Tableau Visualizations | Databricks Data Lake Fundamentals | Oracle Cloud Infrastructure
 
 ---
 
