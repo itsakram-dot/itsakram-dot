@@ -14,8 +14,6 @@ I'm Akram, a Data Analyst with a Master's in Business Analytics.
 
 I build projects that mirror real business problems—operational optimization, fraud detection, customer analytics, and live monitoring systems. Each project demonstrates end-to-end analytical thinking: from data acquisition through model building to actionable insights and measurable business impact.
 
-**Skills:** Python, R, SQL, Tableau, Power BI, AWS
-
 ---
 
 ## 💼 Featured Projects
