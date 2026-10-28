@@ -18,9 +18,17 @@ I build projects that answer real business problems such as operational optimiza
 
 ## 💼 Featured Projects
 
+📊 DEIA, Recognition, and Engagement at the NSF
+
+Git (https://github.com/itsakram-dot/DEIA-Recognition-and-Engagement-at-the-NSF)
+
+Analyzed 1,040 National Science Foundation employee responses from the 2023 Federal Employee Viewpoint Survey (FEVS). Built four composite indices from raw survey items using OPM definitions and ran OLS regressions in R with race and sex controls to evaluate the impact of recognition and agile practices.
+Impact: Identified strong co-movement between recognition and DEIA perception (B = 0.90, R² = 0.55) and engagement (R² = 0.62), while documenting cross-sectional limitations.
+Tech: R, Survey Data, OLS Regression, Data Visualization, People Analytics
+
 ✈️ *Operational Risk Triage: ML for Flight Operations*
 
-GitHub (https://github.com/itsakram-dot/Operational-Risk-Triage-Machine-Learning-for-Flight-Operations)
+Git (https://github.com/itsakram-dot/Operational-Risk-Triage-Machine-Learning-for-Flight-Operations)
 
 Predicted crew-related flight delays 24 hours ahead using XGBoost classification (83% AUC), identifying $47M in potential revenue protection through proactive crew repositioning and schedule optimization.
 Impact: $47M revenue protection opportunity identified
@@ -28,7 +36,7 @@ Tech: Python, XGBoost, Feature Engineering, Classification, 800K+ records
 
 ⚖️ *Financial Compliance Automation (Graduate Capstone)*
 
-GitHub (https://github.com/itsakram-dot/Masters-Capstone-Project)
+Git (https://github.com/itsakram-dot/Masters-Capstone-Project)
 
 Automated AML/KYC compliance review process using anomaly detection (XGBoost, Isolation Forest), reducing manual review time by 58% and false positives by 41% while maintaining regulatory coverage.
 Impact: 58% faster compliance reviews, 41% fewer false positives
@@ -36,7 +44,7 @@ Tech: Python, Anomaly Detection, XGBoost, Isolation Forest, Process Automation
 
 ⚾ *MLB Free Agent Value Analytics*
 
-GitHub (https://github.com/itsakram-dot/MLB-Free-Agent-Data)
+Git (https://github.com/itsakram-dot/MLB-Free-Agent-Data)
 
 Evaluated MLB free agent market efficiency by predicting fair player salaries using Random Forest models, identifying undervalued and overvalued players to inform front-office contract decisions (1998-2013 data).
 Impact: Quantified player value vs. market salary for contract optimization
@@ -44,7 +52,7 @@ Tech: R, Random Forest, Regression, Sports Analytics, Salary Prediction
 
 💳 *Payment Intelligence Pipeline*
 
-GitHub (https://github.com/itsakram-dot/Payment-Intelligence-Pipeline-SQL-Tableau-)
+Git (https://github.com/itsakram-dot/Payment-Intelligence-Pipeline-SQL-Tableau-)
 
 Automated payment analytics for 500K+ transactions, building SQL-based ETL pipeline and Tableau dashboards surfacing late payment patterns and reducing manual reporting time by 60%.
 Impact: 60% reduction in manual reporting time
@@ -52,7 +60,7 @@ Tech: SQL, Tableau, ETL, Payment Analytics
 
 📊 *Customer Profitability & Risk Engine*
 
-GitHub (https://github.com/itsakram-dot/Customer-Profitability-Risk-Engine-RFM-Returns-)
+Git (https://github.com/itsakram-dot/Customer-Profitability-Risk-Engine-RFM-Returns-)
 
 Segmented 10K+ customers using RFM analysis and return behavior modeling, enabling targeted retention strategies through Power BI dashboards tracking customer lifetime value and churn risk.
 Impact: Actionable customer segmentation for retention targeting
@@ -60,7 +68,7 @@ Tech: SQL, RFM Analysis, Power BI (DAX), Customer Analytics
 
 ☁️ *Business Weather Analytics*
 
-GitHub (https://github.com/itsakram-dot/big-data-weather-analytics)
+Git (https://github.com/itsakram-dot/big-data-weather-analytics)
 
 Built AWS data pipelines processing 10+ years of weather data, analyzing weather impact on business operations through SQL queries and Power BI visualizations supporting operational planning decisions.
 Impact: Historical weather impact quantified for operational forecasting
@@ -68,7 +76,7 @@ Tech: AWS, Python, SQL, Power BI, Big Data Processing
 
 ✈️ *Airline Passenger Forecasting* 
 
-GitHub (https://github.com/itsakram-dot/BAN-673-Airline-Passenger-Forecast)
+Git (https://github.com/itsakram-dot/BAN-673-Airline-Passenger-Forecast)
 
 Forecasted airline passenger demand using ARIMA time series models, supporting fleet planning and capacity allocation decisions through statistical demand projections.
 Impact: Data-driven demand forecasts for capacity planning
